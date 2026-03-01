@@ -179,6 +179,17 @@ Underwater-Exploration-Drone/
 Robotics & AI Engineering Project  
 Focused on embedded systems integration and underwater robotic platform development.
 
+## 📸 Hardware Prototype
+
+### 🔹 Complete ROV Structure
+![ROV Overview](images/hardware-overview.jpeg)
+
+### 🔹 Thruster Configuration
+![Thrusters](images/thruster-layout.jpeg)
+
+### 🔹 Motor Driver & Control System
+![Motor Driver](images/motor-driver.jpeg)
+
 ---
 
 ## 📜 License
